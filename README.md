@@ -1,8 +1,9 @@
 # ChatAI
 
-👨‍🌾‍ ChatAI采用了面向Wechat的纯视觉交互方案，使得ChatAI可以与Wechat进行信息交互
+👨‍🌾‍ ChatAI采用了PaddlePaddle纯视觉交互方案，使得ChatAI可以与Wechat进行信息交互。目前ChatAI可以通过Wechat进行文本、语音、图像的识别与智能应答。
 
-👨‍💻‍ ChatAI adopts a pure visual interaction solution for WeChat, allowing ChatAI to interact with WeChat for information
+
+👨‍💻‍ ChatAI adopts the PaddlePaddle pure visual interaction scheme, allowing ChatAI to interact with Wechat for information exchange. At present, ChatAI can recognize and intelligently respond to text, speech, and images through WeChat.
 
 
 🤖 因为开源程序被下载后用于规模化商业应用，暂时关闭开源。
